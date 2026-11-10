@@ -43,6 +43,8 @@ export const ComplianceTable: React.FC<ComplianceTableProps> = ({
 
   // Quick search recommendation tags
   const quickSearchTags = [
+    '董事會',
+    '董監事',
     '營業收入',
     '財務報告',
     '股東常會',
